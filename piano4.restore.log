@@ -1,0 +1,33 @@
+********* Restore Archive Project on 2026-11-02 21:27:20 *********
+Tool Version: V1.9.12.04 (64-bit)
+Archive file: D:\piano\piano4.gar
+Restore Archived file to: D:\piano
+Restore Successfully
+
+
+********* Files Restored *********
+piano4\impl\piano4_process_config.json
+piano4\piano4.gprj
+piano4\piano4.gprj.user
+piano4\src\i2s_tx.v
+piano4\src\key_matrix_scan.v
+piano4\src\keyboard_organ_top.v
+piano4\src\mixer.v
+piano4\src\note_freq.v
+piano4\src\osc_bank.v
+piano4\src\piano4.cst
+piano4\src\pin.cst
+piano4\src\synth_top.v
+piano4\src\synth_top_test.v
+piano4\src\tb_voice.v
+piano4\src\time.sdc
+piano4\src\tone_gen.v
+piano4\src\voice_allocator.v
+piano4\src\voice_osc.v
+
+
+********* Files not Restored *********
+
+
+
+********* Files Restored Failed *********

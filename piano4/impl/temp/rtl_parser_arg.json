@@ -1,0 +1,52 @@
+{
+    "Device": "GW5A-25A",
+    "Files": [
+        {
+            "Path": "D:/piano/piano4/src/i2s_tx.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/key_matrix_scan.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/mixer.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/note_freq.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/osc_bank.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/synth_top.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/tb_voice.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/tone_gen.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/voice_allocator.v",
+            "Type": "verilog"
+        },
+        {
+            "Path": "D:/piano/piano4/src/voice_osc.v",
+            "Type": "verilog"
+        }
+    ],
+    "IncludePath": [
+    ],
+    "LoopLimit": 2000,
+    "ResultFile": "D:/piano/piano4/impl/temp/rtl_parser.result",
+    "Top": "synth_top",
+    "VerilogStd": "verilog_2001",
+    "VhdlStd": "vhdl_93"
+}
